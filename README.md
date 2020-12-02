@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : https://cranky-galileo-a84fff.netlify.app/
+* Link to the website deployed on Netlify : [https://cranky-galileo-a84fff.netlify.app/]()
